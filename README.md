@@ -65,7 +65,7 @@
 
 ## Acknowledgments
 
-* Hat tip to UNH for providing project parameters and code examples
+* 
 
 
 
